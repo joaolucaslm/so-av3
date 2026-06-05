@@ -1,0 +1,4 @@
+out/
+filesystem.img
+filesystem.img.tmp
+filesystem.journal
